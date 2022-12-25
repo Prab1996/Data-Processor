@@ -1,6 +1,8 @@
 # Data-Processor
 Graphics User Interface
 
+![image](https://user-images.githubusercontent.com/33480113/209458941-82687463-c539-4555-b37c-c83a35ab5610.png)
+
 
 This is a small program that I built.
 
